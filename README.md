@@ -26,3 +26,5 @@
     Demonstrates snake like movement with very simple rules
 * explosive.csv  
     Demonstrates simple pseudo-multiplying which is very notable
+* chains.csv  
+    Cool chain like formation 
