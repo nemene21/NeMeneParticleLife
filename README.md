@@ -20,9 +20,9 @@
 * V to toggle trail view
 
 # Force matrix files:
-* prazno.csv\n
+* prazno.csv  
     Empty force matrix, used by the program when restarting
-* snakes.csv\n
+* snakes.csv  
     Demonstrates snake like movement with very simple rules
-* explosive.csv\n
+* explosive.csv  
     Demonstrates simple pseudo-multiplying which is very notable
