@@ -1,0 +1,10 @@
+ ---- ; red ; green ; blue ; purple ; yellow ; white ;
+red   ;     ;       ;      ;        ;        ;       ;
+green ;     ;       ;      ;        ;        ;       ;
+blue  ;     ;       ;      ;        ;        ;       ;
+purple;     ;       ;      ;        ;        ;       ;
+yellow;     ;       ;      ;        ;        ;       ;
+white ;     ;       ;      ;        ;        ;       ;
+
+INNER_R ; 16  ;
+OUTER_R ; 128 ;
